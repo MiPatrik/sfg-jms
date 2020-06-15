@@ -1,4 +1,4 @@
-package guru.springframework.model;
+package guru.springframework.sfgjms.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
